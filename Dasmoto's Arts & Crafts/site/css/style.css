@@ -1,0 +1,38 @@
+body {
+  font-family: helvetica, sans-serif;
+}
+
+.product img {
+  height: 250px;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("../img/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes h2 {
+  background-color: MediumSpringGreen;
+}
+
+#frames h2{
+  background-color: LightCoral;
+}
+
+#paint h2{
+  background-color: SkyBlue;
+}
+
+.starting-price {
+  font-weight: bold;
+  color: blue;
+}
